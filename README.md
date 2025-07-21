@@ -47,7 +47,6 @@ This project explores the role and performance of **Micro, Small, and Medium Ent
 
 ## 📷 Visualizations Screenshots:
 
-> 📌
 ><img width="700" height="303" alt="image" src="https://github.com/user-attachments/assets/000107c4-67a6-4485-b667-b4c57f3d54a4" />
 ><img width="843" height="366" alt="image" src="https://github.com/user-attachments/assets/a173c95c-7def-4aed-aa26-251b92d6748b" />
 ><img width="817" height="391" alt="image" src="https://github.com/user-attachments/assets/53406e6f-1377-4aff-a919-ff60f8658ee7" />
