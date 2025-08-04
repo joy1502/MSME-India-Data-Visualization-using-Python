@@ -22,7 +22,7 @@ This project explores the role and performance of **Micro, Small, and Medium Ent
   - State-wise enterprise count
   - Employment by sector and activity
   - Khadi and Village industries growth
-- Trend analysis of production, sales, and government support.
+  - Trend analysis of production, sales, and government support.
 
 ---
 
